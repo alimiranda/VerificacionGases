@@ -1,0 +1,58 @@
+Código,Nombre_Estacion,Nombre,PM2.5,PM10,NO,NO2,NOx,Ozono,CO,SO2,Latitud,Longitud,P_SSR,PLiquida_SSR,TAire10_SSR,RGlobal_SSR,HAire10_SSR,VViento_SSR,DViento_SSR,PM10M,Vaisala,Automatica,Ruido,PM2.5M,BTEX,Nombre_Largo,Enumeracion,Municipio,Meteorologia
+40,Parque de las Aguas,BAR-PDLA,0,0,0,0,0,1,0,0,6.4067135,-75.4194870,0,0,0,0,0,0,0,0,0,1,0,0,0,Parque de las Aguas,,Barbosa,1
+37,U. San Buenaventura,BEL-USBV,0,1,0,0,0,1,0,0,6.3306971,-75.5686722,1,0,1,1,1,1,1,0,0,1,0,0,0,Universidad San Buenaventura,,Bello,1
+31,Corp. Universitaria Lasallista,CAL-LASA,0,0,0,0,0,0,0,0,6.0990806,-75.6386261,0,0,0,0,0,0,0,0,0,1,0,0,0,Corporación Universitaria Lasallista,18,Caldas,1
+47,Plaza de Mercado,CAL-PMER,0,0,0,0,0,0,0,0,6.093056,-75.635000,0,0,0,0,0,0,0,0,0,0,0,0,0,Plaza de Mercado,,Caldas,0
+69,E U Joaquin Aristizabal,CAL-JOAR,1,0,0,0,0,0,0,0,6.0930777,-75.637764,0,0,0,0,0,0,0,1,0,1,0,0,0,Escuela Joaquín Aristizabal,5,Caldas,0
+48,Estación Tráfico Sur,SUR-TRAF,1,1,1,1,1,0,0,0,6.1523128,-75.6274872,0,0,0,0,0,0,0,1,0,1,0,0,0,Estación Tráfico Sur,21,Sabaneta,1
+11,I.E. Colombia,GIR-IECO,0,0,0,0,0,0,0,0,6.3785167,-75.4439850,0,0,0,0,0,0,0,0,0,1,0,0,0,Institución Educativa Colombia,,Girardota,0
+3,SOS Aburrá Norte,GIR-SOSN,0,0,0,0,0,0,0,0,6.3790379,-75.4509125,0,0,0,0,0,0,0,0,0,0,0,0,0,SOS Aburrá Norte,1,Girardota,0
+28,Casa de Justicia,ITA-CJUS,1,0,1,1,1,0,0,0,6.1856666,-75.5972061,1,0,1,1,1,1,1,0,0,1,0,0,0,Casa de Justicia de Itagüi,2,Itagüí,1
+38,I.E. Concejo Municipal de Itagüí,ITA-CONC,1,1,0,0,0,1,0,0,6.1684971,-75.6443558,0,0,0,0,0,0,0,0,0,0,0,0,0,Institución Educativa Concejo de Itagüi,4,Itagüí,1
+45,C. El Rosario,ITA-CRSV,0,0,0,0,0,0,0,0,6.1716304,-75.6069489,0,0,0,0,0,0,0,0,0,0,0,0,0,Colegio El Rosario Itagüi,,Itagüí,0
+46,Exito San Antonio,MED-EXSA,0,1,0,0,0,0,0,0,6.2493334,-75.5702515,0,0,0,0,0,0,0,0,0,1,0,0,0,Exito San Antonio,,Medellín - Centro,0
+44,Tanques La Ye EPM,MED-LAYE,1,0,0,0,0,1,0,0,6.1825418,-75.5506363,0,0,0,0,0,0,0,0,0,1,0,0,0,Tanques La Ye EPM,3,Medellín - El Poblado,1
+12,Estación Tráfico Centro,CEN-TRAF,1,1,1,1,1,0,0,1,6.2525611,-75.5695801,0,0,0,0,0,0,0,0,0,1,1,0,1,Estación Tráfico Centro,19,Medellín - Centro,0
+25,Universidad Nacional sede El Volador,MED-UNNV,0,0,0,0,0,0,0,0,6.2633696,-75.5770035,0,0,0,0,0,0,0,0,0,0,0,0,0,Universidad Nacional Nucleo El Volador,,Medellín - Centro occidente,0
+43,Tanques Miraflores,MED-MIRA,0,0,0,0,0,1,0,0,6.2299724,-75.5491943,0,0,0,0,0,0,0,1,0,1,0,0,0,Tanques Miraflores EPM,,Medellín,1
+6,Politécnico JIC,MED-PJIC,0,1,1,1,1,0,1,0,6.2089748,-75.5777664,0,0,0,0,0,0,0,1,0,1,0,1,0,Politécnico Jaime Isaza Cadavid,,Medellín,1
+41,U. de Medellín,MED-UDEM,0,0,0,0,0,1,0,0,6.2301841,-75.6099625,0,0,0,0,0,0,0,0,0,1,0,0,0,Universidad de Medellín,,Medellín,1
+51,H. San Vicente de Paul,BAR-HSVP,0,0,0,0,0,0,0,0,6.4391666667,-75.3363333333,0,0,0,0,0,0,0,1,0,0,0,0,0,Hospital San Vicente de Paul,,Barbosa,0
+52,H. Santa Margarita,COP-HSMA,0,0,0,0,0,0,0,0,6.3527222222,-75.5082222222,0,0,0,0,0,0,0,1,0,0,0,0,0,Hospital Santa Margarita,,Copacabana,0
+59,I.E. Santa Maria Goretti,EST-MAGO,0,0,0,0,0,0,0,0,6.1609166667,-75.645,0,0,0,0,0,0,0,1,0,0,0,0,0,Escuela Santa Maria Goretty,,La Estrella,0
+7,PTAR San Fernando,ITA-PTAR,0,0,0,0,0,0,0,0,6.1936388889,-75.5915833333,0,0,0,0,0,0,0,1,0,0,0,0,0,PTAR San Fernando,,Itagüí,0
+55,Corantioquia,MED-CORA,0,0,0,0,0,0,0,0,6.2525,-75.5860833333,0,0,0,0,0,0,0,1,0,0,0,0,0,Corantioquia,,Medellín,0
+71,Alcaldía de Bello,BEL-ALCA,0,0,0,0,0,0,0,0,6.3380861111,-75.5616111111,0,0,0,0,0,0,0,0,0,0,0,0,0,Alcaldía de Bello,,Bello,0
+70,Droguería Botica Junín,GIR-BOTJ,0,0,0,0,0,0,0,0,6.3883611111,-75.4405277778,0,0,0,0,0,0,0,0,0,0,1,0,0,Droguería Botica Junín,,Girardota,0
+17,Complex de Ditaires,ITA-CODI,0,0,0,0,0,0,0,0,6.1691198,-75.6281967,0,0,0,0,0,0,0,0,0,0,0,0,0,Complejo Ditaires,,Itagüí,0
+72,Plaza Mayor,MED-PLMA,0,0,0,0,0,0,0,0,6.2458611111,-75.5791388889,0,0,0,0,0,0,0,0,0,0,0,0,0,Plaza Mayor,,Medellín,0
+60,Sría. Educ. Sabaneta,SAB-SEMS,0,0,0,0,0,0,0,0,6.1535277778,-75.6195277778,0,0,0,0,0,0,0,0,0,0,1,0,0,Secretaría de Educación de Sabaneta,,Sabaneta,0
+62,Sria. Amb. Bello,BEL-SESB,0,0,0,0,0,0,0,0,6.3315,-75.556,0,0,0,0,0,0,0,0,0,0,0,0,0,Secretaría de Ambiente de Bello,,Bello,0
+73,I. Aurelio Tobón,COP-IATO,0,0,0,0,0,0,0,0,6.34875,-75.5068055556,0,0,0,0,0,0,0,0,0,0,0,0,0,Institución Aurelio Tobón,,Copacabana,0
+4,Facultad de Minas ,MED-UNFM,0,0,0,0,0,0,0,0,6.27694,-75.59611111,0,0,0,0,0,0,0,0,0,0,0,0,0,Universidad Nacional - Facultad de Minas,,Medellín,0
+74,ITM Robledo ,MED-ITMR,0,1,1,1,1,0,0,0,6.2740030,-75.5925751,0,0,0,0,0,0,0,0,0,1,0,0,0,Institución Universitaria ITM Robledo,,Medellín,0
+78,Hospital,EST-HOSP,1,0,0,0,0,0,0,0,6.15553055555556,-75.644169444,0,0,0,0,0,0,0,0,0,1,0,0,0,La Estrella,6,La Estrella,0
+81,Torre Social,BAR-TORR,1,0,0,0,0,0,0,0,6.4369602,-75.3304520,0,0,0,0,0,0,0,0,0,1,0,0,0,Barbosa Torre Social,9,Barbosa,0
+76,Torre SIATA,MED-SIAT,0,0,0,0,0,0,0,0,6.259215,-75.588640,0,0,0,0,0,0,0,0,0,0,1,0,0,Torre SIATA,18,Medellín,0
+79,I.E. Pedro Octavio Amado,MED-ALTA,1,0,0,0,0,0,0,0,6.2218938,-75.6106033,0,0,0,0,0,0,0,0,0,1,0,0,0,Altavista,7,Medellín - Altavista,0
+80,Planta de agua potable de EPM,MED-VILL,1,0,0,0,0,0,0,0,6.261722,-75.551639,0,0,0,0,0,0,0,0,0,1,0,0,0,Villahermosa,8,Medellín - Villahermosa,0
+83,I.E. Pedro Justo Berrío,MED-BEME,1,0,0,0,0,0,0,0,6.24300,-75.61201,0,0,0,0,0,0,0,0,0,1,0,0,0,I.E. Pedro Justo Berrío,13,Medellín - Belén,0
+84,I.E. INEM sede Santa Catalina,MED-TESO,1,0,0,0,0,0,0,0,6.19987,-75.56095,0,0,0,0,0,0,0,0,0,1,0,0,0,I.E. INEM Jose Félix de Restrepo Sede Santa Catalina,14,Medellín - El Poblado,0
+85,Parque Biblioteca Fernando Botero,MED-SCRI,1,0,0,0,0,0,0,0,6.28050,-75.63660,0,0,0,0,0,0,0,0,0,1,0,0,0,Parque Biblioteca Fernando Botero,12,Medellín - San Cristobal,0
+86,I.E. Ciro Mendía,MED-ARAN,1,0,0,0,0,0,0,0,6.2934599,-75.556427,0,0,0,0,0,0,0,0,0,1,0,0,0,I.E. Ciro Mendia,11,Medellín - Aranjuez,0
+82,Ciudadela Educativa de la Vida,COP-CVID,1,0,0,0,0,0,0,0,6.3453611111111111,-75.50474,0,0,0,0,0,0,0,0,0,1,0,0,0,Ciudadela de la Vida,10,Copacabana,1
+87,I.E. Fernando Vélez,BEL-FEVE,1,0,0,0,0,0,0,0,6.33755,-75.5678,0,0,0,0,0,0,0,0,0,1,0,0,0,I.E. Fernando Vélez,15,Bello,0
+88,E.S.E Santa Gertrudis,ENV-HOSP,1,0,0,0,0,0,0,0,6.16849,-75.58197,0,0,0,0,0,0,0,0,0,1,0,0,0,E.S.E Santa Gertrudis,16,Envigado,0
+89,I.E. Jose Félix de Restrepo,SAB-JOFE,0,0,0,0,0,0,0,0,6.15012,-75.62049,0,0,0,0,0,0,0,0,0,0,0,0,0,I.E. Jose Félix de Restrepo,17,Sabaneta,0
+90,I.E Rafael J. Mejía,SAB-RAME,1,0,0,0,0,0,0,0,6.145500,-75.621260,0,0,0,0,0,0,0,0,0,1,0,0,0,I.E Rafael J. Mejía,17,Sabaneta,1
+92,Estación de Policia Los Gómez,ITA-POGO,0,1,0,0,0,0,0,0,6.189723,-75.610588,0,0,0,0,0,0,0,1,0,1,0,0,0,Estación de Policía Los Gómez,0,Itagüí,0
+94,Medellín - Santa Elena,MED-SELE,1,0,0,0,0,0,0,0,6.236361,-75.498472,0,0,0,0,0,0,0,0,0,1,0,0,0,Medellín - Santa Elena,18,Medellín - Santa Elena,1
+95,Zoológico Santa Fe,MED-ZOOL,0,0,0,0,0,0,0,0,6.2244623802,-75.57922995,0,0,0,0,0,0,0,0,0,0,1,0,0,Zoológico Santa Fe,,Medellín,0
+96,Santa María,ITA-SAMA,0,0,0,0,0,0,0,0,6.186908,-75.594723,0,0,0,0,0,0,0,0,0,0,1,0,0,Santa María,,Itagüí,0 
+97,Politécnico JIC-Regional,MED-PJIR,0,0,0,0,0,0,0,0,6.20896,-75.577939,0,0,0,0,0,0,0,0,0,0,1,0,0,Politécnico Jaime Isaza Cadavid Regional,,Medellín,0
+98,I. E. Jorge Eliecer Gaitán,BEL-JEGA,0,0,0,0,0,0,0,0,6.33711,-75.55866,0,0,0,0,0,0,0,1,0,0,0,1,0,Institución Educativa Jorge Eliecer Gaitán,,Bello,0
+100,Fiscalía General de la Nación,MED-FISC,1,0,1,1,1,1,0,0,6.2687889,-75.57370833,1,1,1,1,1,1,1,0,0,1,0,0,0,Fiscalía General de la Nación,,Medellin,1
+101,Girardota - Tanques EPM,GIR-EPM,1,1,1,1,1,1,1,1,6.373635,-75.448145,0,0,0,0,0,0,1,1,1,1,1,1,1,Tanques EPM,1,Girardota,1
+102,Campaña Girardota,GIR-TEMP,0,0,0,0,0,0,0,0,6.377940,-75.443492,0,0,0,0,0,0,0,0,0,1,0,0,0,Campaña Girardota,,Girardota,0
+103,Tomás Carrasquilla - La Quintana,MED-
+PBLQ,1,0,0,0,0,1,0,0,6.285000,-75.583055,0,0,0,0,0,0,0,0,0,0,0,0,0,Parque Biblioteca Tomás Carrasquilla - La Quintana,,Medellín,0

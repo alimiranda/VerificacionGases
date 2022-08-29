@@ -1,0 +1,73 @@
+Date: 3/1/2022
+Time: 10:46
+Phone Number: +573052526194
+Message: La verificacion de CS_PR realizada en la estacion ITA-CJUS, para la variable NOx en la fecha Index(['09 Nov\n2021'], dtype='object') se encontro con valor de Index(['09 Nov\n2021'], dtype='object'), [2.8 0.2]: Cerca al rango permitido
+--------------------
+Date: 3/1/2022
+Time: 11:20
+Phone Number: +573052526194
+Message: La verificacion de CS_PR realizada en la estacion ITA-CJUS, para la variable NOx en la fecha Index(['09 Nov\n2021'], dtype='object') se encontro con valor de Index(['09 Nov\n2021'], dtype='object'), (array([0, 1]),): Cerca al rango permitido
+--------------------
+Date: 3/1/2022
+Time: 11:26
+Phone Number: +573052526194
+Message: La verificacion de CS_PR realizada en la estacion ITA-CJUS, para la variable NOx en la fecha 09 Nov2021 se encontro con valor de 09 Nov2021, [2.8 0.2]: Cerca al rango permitido
+--------------------
+Date: 3/1/2022
+Time: 11:51
+Phone Number: +573052526194
+Message: La verificacion de CS_PR realizada en la estacion ITA-CJUS, para la variable NOx en la fecha 09 Nov2021 se encontro con valor de 0.2, Cerca al rango permitido: 3.1
+--------------------
+Date: 3/1/2022
+Time: 12:20
+Phone Number: +573052526194
+Image: Figuras/ErrorVerification_CS_PR_NOx_ITA-CJUS.jpg
+Caption: La verificacion de CS_PR realizada en la estacion ITA-CJUS, para la variable NOx en la fecha 09 Nov2021 se encontro con valor de [2.8 0.2], Cerca al rango permitido: 3.1
+--------------------
+Date: 3/1/2022
+Time: 12:30
+Phone Number: +573052526194
+Image: Figuras/ErrorVerification_CS_PR_NOx_ITA-CJUS.jpg
+Caption: La verificacion de CS_PR realizada en la estacion ITA-CJUS, para la variable NOx en la fecha 09 Nov2021 se encontro con valor de [2.8 0.2], Cerca al rango permitido: 3.1
+--------------------
+Date: 3/1/2022
+Time: 12:35
+Phone Number: +573052526194
+Image: Figuras/ErrorVerification_CS_PR_NOx_ITA-CJUS.jpg
+Caption: La verificacion de CS_PR realizada en la estacion ITA-CJUS, para la variable NOx en la fecha 09 Nov2021 se encontro con valor de [2.8 0.2], Cerca al rango permitido: 3.1
+--------------------
+Date: 3/1/2022
+Time: 13:13
+Phone Number: +573052526194
+Image: Figuras/ErrorVerification_CS_PR_NOx_ITA-CJUS.jpg
+Caption: La verificacion de CS_PR realizada en la estacion ITA-CJUS, para la variable NOx en la fecha 09 Nov2021 se encontro con valor de [2.8 0.2], Cerca al rango permitido: 3.1
+--------------------
+Date: 3/1/2022
+Time: 13:26
+Phone Number: +573052526194
+Image: Figuras/ErrorVerification_CS_PR_NOx_ITA-CJUS.jpg
+Caption: La verificacion de CS_PR realizada en la estacion ITA-CJUS, para la variable NOx en la fecha 09 Nov2021 se encontro con valor de [2.8 0.2], Cerca al rango permitido: 3.1
+--------------------
+Date: 3/1/2022
+Time: 13:56
+Phone Number: +573012728049
+Image: Figuras/ErrorVerification_CS_PR_NOx_ITA-CJUS.jpg
+Caption: La verificacion de CS_PR realizada en la estacion ITA-CJUS, para la variable NOx en la fecha 09 Nov2021 se encontro con valor de [2.8 0.2], Cerca al rango permitido: 3.1
+--------------------
+Date: 3/1/2022
+Time: 14:3
+Phone Number: +573012728049
+Image: Figuras/ErrorVerification_CS_PR_NOx_ITA-CJUS.jpg
+Caption: La verificacion de CS_PR realizada en la estacion ITA-CJUS, para la variable NOx en la fecha 09 Nov2021 se encontro con valor de [2.8 0.2], Cerca al rango permitido: 3.1
+--------------------
+Date: 3/1/2022
+Time: 14:7
+Phone Number: +573004095828
+Image: Figuras/ErrorVerification_CS_PR_NOx_ITA-CJUS.jpg
+Caption: La verificacion de CS_PR realizada en la estacion ITA-CJUS, para la variable NOx en la fecha 09 Nov2021 se encontro con valor de [2.8 0.2], Cerca al rango permitido: 3.1
+--------------------
+Date: 3/1/2022
+Time: 14:16
+Phone Number: +573004095828
+Message: La verificacion de CS_PR realizada en la estacion ITA-CJUS, para la variable NOx, se encontraron los valores:[2.8 0.2], en la fecha 09 Nov2021 el valor está cerca al rango permitido: 3.1
+--------------------
